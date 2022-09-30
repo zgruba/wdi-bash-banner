@@ -1,6 +1,6 @@
 # Bash script for making banners
 
-Made for introduction to programming classes at MIMUW in the winter semester of 2021/2022.
+Made for Bioinformatics introduction to computer science classes at MIMUW in the winter semester of 2021/2022.
 
 ## Usage
 ```
