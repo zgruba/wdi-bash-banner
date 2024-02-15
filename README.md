@@ -10,7 +10,7 @@ Usage: banner.sh [-h] [-w] [-c character] [filename]
  -h help
 ```
 
-If no `filename` is supplied, reads from standart input.
+If no `filename` is supplied, reads from standard input.
 
 ## Examples
 
